@@ -6,7 +6,7 @@ import PasswordReset from './Components/passwordReset';
 
 function App() {
 
-  const url="https://password-reset-backend3.onrender.com";
+  const url="https://ps-back.onrender.com";
 
   return (
     <Router>
